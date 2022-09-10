@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanzukun
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate with someone enthusiastic...
 - 📫 How to reach me -psychowalajoler@gmail.com
 
