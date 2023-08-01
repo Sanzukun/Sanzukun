@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate with someone enthusiastic...
-- 📫 How to reach me -psychowalajoler@gmail.com
+- 📫 How to reach me -sanjaymahatosm16@gmail.com
 
 <!---
 Sanzukun/Sanzukun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
